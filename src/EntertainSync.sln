@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntertainSync.Api", "EntertainSync.Api\EntertainSync.Api.csproj", "{7219D995-5774-4294-8FBD-33665700A160}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntertainSync.Core", "EntertainSync.Core\EntertainSync.Core.csproj", "{DC2CE2F3-3B19-4B7F-9C6D-BC2E874CDF0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntertainSync.Infra", "EntertainSync.Infra\EntertainSync.Infra.csproj", "{56AF782F-D0BE-423C-A989-CDDF9A2A046C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntertainSync.Ui", "EntertainSync.Ui\EntertainSync.Ui.csproj", "{7E8BD817-91D7-43CC-95E5-6AD5751B219B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntertainSync.AppHost", "EntertainSync.AppHost\EntertainSync.AppHost.csproj", "{06C6F500-E1CD-4B7F-93F7-87C1892949A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntertainSync.ServiceDefaults", "EntertainSync.ServiceDefaults\EntertainSync.ServiceDefaults.csproj", "{5A3BBAE5-F027-4DA9-9732-7A3A65CF69E1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7219D995-5774-4294-8FBD-33665700A160}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7219D995-5774-4294-8FBD-33665700A160}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7219D995-5774-4294-8FBD-33665700A160}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7219D995-5774-4294-8FBD-33665700A160}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC2CE2F3-3B19-4B7F-9C6D-BC2E874CDF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC2CE2F3-3B19-4B7F-9C6D-BC2E874CDF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC2CE2F3-3B19-4B7F-9C6D-BC2E874CDF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC2CE2F3-3B19-4B7F-9C6D-BC2E874CDF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56AF782F-D0BE-423C-A989-CDDF9A2A046C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AF782F-D0BE-423C-A989-CDDF9A2A046C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AF782F-D0BE-423C-A989-CDDF9A2A046C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AF782F-D0BE-423C-A989-CDDF9A2A046C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8BD817-91D7-43CC-95E5-6AD5751B219B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8BD817-91D7-43CC-95E5-6AD5751B219B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8BD817-91D7-43CC-95E5-6AD5751B219B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8BD817-91D7-43CC-95E5-6AD5751B219B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C6F500-E1CD-4B7F-93F7-87C1892949A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C6F500-E1CD-4B7F-93F7-87C1892949A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C6F500-E1CD-4B7F-93F7-87C1892949A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C6F500-E1CD-4B7F-93F7-87C1892949A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A3BBAE5-F027-4DA9-9732-7A3A65CF69E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3BBAE5-F027-4DA9-9732-7A3A65CF69E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3BBAE5-F027-4DA9-9732-7A3A65CF69E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3BBAE5-F027-4DA9-9732-7A3A65CF69E1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
